@@ -1,1 +1,3 @@
 # scholar-craft
+
+Hello world!
