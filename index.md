@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ScholarCraft
 
 You can use the [editor on GitHub](https://github.com/meshach-joe/scholar-craft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
